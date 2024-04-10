@@ -16,6 +16,7 @@ Tehnologiile principale utilizate în acest proiect sunt:
 **REFERINTE API**
 <br>
 API Endpoint
+<br>
 Proiectul utilizează API-ul de căutare al localităților din România, disponibil la următoarea adresă:
 [Endpoint](https://orase.peviitor.ro/)
 Acesta furnizează datele necesare pentru căutarea orașelor, satelor și localităților din România.
