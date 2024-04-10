@@ -3,6 +3,7 @@
 
 <br>
 Acest proiect constă într-un motor de căutare creat pentru identificarea orașelor, satelor și localităților din România, folosind un API endpoint specific. Utilizatorii pot introduce numele unei locații într-un câmp de căutare, iar apoi vor primi rezultate relevante despre acea locatie sau locații similare din întreaga țară.
+
 <br>
 
 **TEHNOLOGII FOLOSITE**
@@ -10,6 +11,7 @@ Acest proiect constă într-un motor de căutare creat pentru identificarea ora�
 <br>
 Tehnologiile principale utilizate în acest proiect sunt:
 <br>
+
 1. html5 HTML: Structura de bază a paginii web.
 2. css3 CSS: Stilizarea și formatarea paginii pentru o experiență vizuală plăcută.
 3. javascript JavaScript: Logica de programare pentru gestionarea evenimentelor, interacțiunea cu API-ul și afișarea rezultatelor.
