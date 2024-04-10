@@ -3,6 +3,7 @@
 <br>
 Acest proiect constă într-un motor de căutare creat pentru identificarea orașelor, satelor și localităților din România, folosind un API endpoint specific. Utilizatorii pot introduce numele unei locații într-un câmp de căutare, iar apoi vor primi rezultate relevante despre acea locatie sau locații similare din întreaga țară.
 <br>
+
 **TEHNOLOGII FOLOSITE**
 <br>
 Tehnologiile principale utilizate în acest proiect sunt:
@@ -11,7 +12,6 @@ Tehnologiile principale utilizate în acest proiect sunt:
 3. javascript JavaScript: Logica de programare pentru gestionarea evenimentelor, interacțiunea cu API-ul și afișarea rezultatelor.
 <br>
 **REFERINTE API**
-<br>
 API Endpoint
 Proiectul utilizează API-ul de căutare al localităților din România, disponibil la următoarea adresă:
 [Endpoint](https://orase.peviitor.ro/)
