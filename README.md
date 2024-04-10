@@ -14,6 +14,7 @@ Tehnologiile principale utilizate în acest proiect sunt:
 3. javascript JavaScript: Logica de programare pentru gestionarea evenimentelor, interacțiunea cu API-ul și afișarea rezultatelor.
 
 **REFERINTE API**
+<br>
 API Endpoint
 Proiectul utilizează API-ul de căutare al localităților din România, disponibil la următoarea adresă:
 [Endpoint](https://orase.peviitor.ro/)
