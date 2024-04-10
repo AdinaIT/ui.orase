@@ -12,7 +12,6 @@ Tehnologiile principale utilizate în acest proiect sunt:
 1. html5 HTML: Structura de bază a paginii web.
 2. css3 CSS: Stilizarea și formatarea paginii pentru o experiență vizuală plăcută.
 3. javascript JavaScript: Logica de programare pentru gestionarea evenimentelor, interacțiunea cu API-ul și afișarea rezultatelor.
-<br>
 
 **REFERINTE API**
 API Endpoint
