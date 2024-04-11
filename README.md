@@ -24,7 +24,6 @@ Răspunsul obținut de la API este un obiect JSON care conține informații desp
 <br>
 
 **ROLUL SI CONTRIBUTIA PERSONALA**
-
 <br>
 Rolul meu in acest proiect este de *Manual Tester* iar contributia adusa s-a transpus prin rularea cazurilor de testare participand astfel activ la procesul de testare a bazei de date prin efectuarea si gestionarea executării cazurilor de testare definite. Identificarea problemelor sau a defectelor în timpul rularii cazurilor de testare, sunt raportate în mod corespunzător echipei care scrie cazurile de testare sau responsabilului de proiect.
 <br>
