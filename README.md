@@ -40,3 +40,6 @@ Activitatea rularii cazurilor de testare poate fi vizualizata aici:
 
 ![image](https://github.com/AdinaIT/ui.orase/assets/127322865/9340f687-bb17-40d9-918f-4e63c21fb1cd)
 
+![image](https://github.com/AdinaIT/ui.orase/assets/127322865/8e948b3f-6308-445a-8c8e-69cbbb2ba143)
+
+
